@@ -43,12 +43,12 @@ O objetivo do JSON2CSV é ajudar a preencher a lacuna entre JSON e CSV converten
 
 - [x] ~O usuário pode inserir um número variável de dígitos binários~
 
-- [] O usuário pode inserir o caminho para o arquivo JSON no sistema de arquivos local em uma caixa de texto
+- [ ] O usuário pode inserir o caminho para o arquivo JSON no sistema de arquivos local em uma caixa de texto
 - [x] ~O usuário pode clicar em um botão 'Abrir' para carregar o arquivo que contém o JSON na caixa de texto~
-- [] O usuário pode ver uma mensagem de aviso se o arquivo JSON não for encontrado
-- [] O usuário pode inserir o caminho em que o arquivo CSV deve ser salvo em uma caixa de texto
+- [ ] O usuário pode ver uma mensagem de aviso se o arquivo JSON não for encontrado
+- [ ] O usuário pode inserir o caminho em que o arquivo CSV deve ser salvo em uma caixa de texto
 - [x] ~O usuário pode clicar no botão 'Salvar' para salvar o arquivo CSV no sistema de arquivos local~
-- [] O usuário pode ver uma mensagem de aviso se a caixa de texto CSV estiver vazia ou se a operação de salvar falhar.
+- [ ] O usuário pode ver uma mensagem de aviso se a caixa de texto CSV estiver vazia ou se a operação de salvar falhar.
 
 ---
 
