@@ -1,0 +1,7 @@
+.containerButton {
+  display: flex;
+}
+
+.containerButton button {
+  width: 60px;
+}
